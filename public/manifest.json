@@ -1,0 +1,22 @@
+{
+  "name": "Farnel Fitness",
+  "short_name": "Farnel Fitness",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#865d39",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/mrX9KC9L/farnel-fitness.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/mrX9KC9L/farnel-fitness.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

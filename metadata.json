@@ -1,0 +1,8 @@
+{
+  "name": "Farnel Fitness",
+  "description": "Farnel Fitness - Sistema de Cardápio Imersivo e Delivery Saudável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
